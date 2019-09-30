@@ -43,6 +43,7 @@ Predict the team with the highest points for successful tackles
 Predict the team with the highest super-performance total
 
 5. #Checking the Team Co-relation table,Performed EDA, PoissionModel, LogisticsRegression  and Outliers detection On TeamDetails.csv Dataset.
+
 6.Task6: Predict the player with the highest SUCCESSFUL RAID percentage
 
 7.Task 7 :Predict the player with the highest SUCCESSFUL TACKLES percentage
