@@ -1,4 +1,4 @@
-# ProKabaddiHackaThon
+# ProKabaddiHackathon
 
 ### Introduction:
 
